@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1517045128 source:/media/ceng252/spt/hshbme280.c
+	<stdint.h>
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	"hshbme280.h"
+
+1517045118 /media/ceng252/spt/hshbme280.h
+	<stdint.h>
+
+1517027439 source:/media/ceng252/spt/spt.c
+	<stdio.h>
+	<time.h>
+	"wxstn.h"
+	"panel.h"
+
+1517045118 /media/ceng252/spt/wxstn.h
+	<time.h>
+
+1517045128 source:/media/ceng252/spt/wxstn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"wxstn.h"
+	"hshbme280.h"
+
+1517046250 source:/media/root/B41D-ECDB/spt/gps.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gps.h"
+	"nmea.h"
+
+1517045118 /media/root/B41D-ECDB/spt/gps.h
+
+1517045118 /media/root/B41D-ECDB/spt/nmea.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1517046250 source:/media/root/B41D-ECDB/spt/hshbme280.c
+	<stdint.h>
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	"hshbme280.h"
+
+1517045118 /media/root/B41D-ECDB/spt/hshbme280.h
+	<stdint.h>
+
+1517046250 source:/media/root/B41D-ECDB/spt/nmea.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<math.h>
+	"nmea.h"
+
+1517046250 source:/media/root/B41D-ECDB/spt/serial.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+	<inttypes.h>
+	<string.h>
+	"serial.h"
+
+1517045118 /media/root/B41D-ECDB/spt/serial.h
+	<inttypes.h>
+
+1517046250 source:/media/root/B41D-ECDB/spt/spa.c
+	<math.h>
+	"spa.h"
+
+1517045118 /media/root/B41D-ECDB/spt/spa.h
+
+1517023032 source:/media/root/B41D-ECDB/spt/spt.c
+	<stdio.h>
+	<time.h>
+	"wxstn.h"
+	"panel.h"
+
+1517066082 /media/root/B41D-ECDB/spt/wxstn.h
+	<time.h>
+
+1517018948 source:/media/root/B41D-ECDB/spt/wxstn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"wxstn.h"
+	"hshbme280.h"
+
+1517066597 source:/media/root/B41D-ECDB/spt/panel.c
+	<stdio.h>
+	<stdlib.h>
+	<wiringPi.h>
+	<pcf8591.h>
+	<pigpio.h>
+	"spa.h"
+	"tsl2561.h"
+	"panel.h"
+	"wxstn.h"
+
+1517045118 /media/root/B41D-ECDB/spt/tsl2561.h
+
+1517066858 /media/root/B41D-ECDB/spt/panel.h
+
+1517021655 source:/media/root/B41D-ECDB/spt/tsl2561.c
+	"tsl2561.h"
+
+1517045128 source:/media/ceng252/spt/gps.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"gps.h"
+	"nmea.h"
+
+1517045118 /media/ceng252/spt/gps.h
+
+1517045118 /media/ceng252/spt/nmea.h
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1517045128 source:/media/ceng252/spt/nmea.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<math.h>
+	"nmea.h"
+
+1517028267 source:/media/ceng252/spt/panel.c
+	<stdio.h>
+	<wiringPi.h>
+	<pcf8591.h>
+	<wiringPiI2C.h>
+	"hshbme280.h"
+	"tsl2561.h"
+	"panel.h"
+
+1517045118 /media/ceng252/spt/tsl2561.h
+
+1518575394 /media/ceng252/spt/panel.h
+
+1517045128 source:/media/ceng252/spt/serial.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+	<inttypes.h>
+	<string.h>
+	"serial.h"
+
+1517045118 /media/ceng252/spt/serial.h
+	<inttypes.h>
+
+1517045128 source:/media/ceng252/spt/spa.c
+	<math.h>
+	"spa.h"
+
+1517045118 /media/ceng252/spt/spa.h
+
+1517045128 source:/media/ceng252/spt/tsl2561.c
+	"tsl2561.h"
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	<inttypes.h>
+	<stdio.h>
+
